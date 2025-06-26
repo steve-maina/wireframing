@@ -14,8 +14,8 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 
 # Key Elements in a Wireframe
 - **Layout Structure:** Defines the arrangement of elements on the page.
-  **Example:** A wireframe for an e-commerce homepage might place a large hero banner at the top, product categories below it in a grid, and a footer with contact info at the bottom.
-  **Contribution:**
+  <br>**Example:** A wireframe for an e-commerce homepage might place a large hero banner at the top, product categories below it in a grid, and a footer with contact info at the bottom.
+  <br>**Contribution:**
 This defines a clear visual hierarchy and flow, helping users quickly find featured products and navigate categories easily. A well-organized layout reduces cognitive load and enhances user experience.
 - **Navigation:** Shows how users will move through the site or application.
   **Example:** The wireframe includes a top horizontal menu with categories like “Home,” “Shop,” “About,” and “Contact,” plus a hamburger menu on mobile.
