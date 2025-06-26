@@ -101,9 +101,44 @@ Using tools like Figma, developers can collaborate directly with designers on wi
 - Outlines all necessary UI elements and how users interact with them.  
 - Enables developers to ask questions or suggest changes before implementation begins.  
 - Acts as a live reference throughout development, ensuring the final product aligns with the agreed-upon structure.
-
----
-
 In summary, wireframing is a critical step that helps bridge the gap between design and development, ensuring projects proceed efficiently, collaboratively, and with a clear user-centered focus.
+
+# Real-World Scenario: Airbnb's Wireframing Process Identifying Usability Issues
+
+## Scenario Overview
+
+In 2014, Airbnb undertook a major redesign of their website and mobile app to improve the booking experience. Before committing to full development, their design team created detailed wireframes and prototypes to test new interaction ideas and layouts.
+
+## Identified Usability Issues
+
+During early wireframing and prototype testing phases with users and internal stakeholders, several usability issues emerged:
+
+1. **Complex Search Filters**  
+   Wireframes revealed that users found the initial search filters overwhelming and confusing, with too many options displayed at once.
+
+2. **Unclear Pricing Information**  
+   The way prices were presented caused uncertainty — users didn’t easily understand if fees and taxes were included.
+
+3. **Booking Flow Confusion**  
+   The multi-step booking process wireframes showed users were dropping off at the payment step due to unclear next actions and insufficient feedback.
+
+## Resolution Through Wireframing
+
+By iterating on wireframes and testing interactive prototypes, Airbnb's design team:
+
+- Simplified the search filters by categorizing and hiding advanced options under expandable menus, making the interface cleaner.
+- Made pricing clearer by showing a breakdown of costs upfront and using tooltips to explain fees.
+- Redesigned the booking flow to include clear progress indicators, better button labeling, and immediate feedback after each action.
+
+## Impact on Final Product
+
+- The redesign, informed by these wireframing insights, led to a smoother and more intuitive booking experience.
+- Airbnb reported increased conversion rates and higher user satisfaction after launch.
+- Development time and cost were reduced by catching and fixing usability issues before coding began.
+
+## Summary: Role of Wireframing in User-Friendly Design
+
+Wireframing at Airbnb demonstrated how early visual prototypes help identify usability flaws that are otherwise costly to fix later. By testing and refining wireframes, designers ensure the final product delivers an intuitive, efficient, and user-centered experience.
+
 
 
