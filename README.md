@@ -37,3 +37,25 @@ This defines a clear visual hierarchy and flow, helping users quickly find featu
 
 # Provide Wireframe
 The provided wireframe is a high-fidelity wireframe
+
+# Popular Wireframing Tools
+
+- Figma
+- Adobe XD  
+- Sketch  
+- Balsamiq  
+- Axure RP  
+
+## Why Figma is Recommended
+
+**Figma** is a powerful, cloud-based design tool that is widely used for wireframing, UI design, and prototyping. It offers several features that make it especially useful for wireframing:
+
+- **Collaborative Design:** Multiple users can work on the same file in real-time, making teamwork seamless.
+- **Browser-Based:** No installation required; works directly in the browser on any operating system.
+- **Vector Networks:** Allows flexible and precise design elements.
+- **Components and Styles:** Reusable design elements that ensure consistency across wireframes and prototypes.
+- **Prototyping:** Easy to add interactions and transitions to wireframes without coding.
+- **Extensive Plugin Ecosystem:** Extend functionality with plugins for everything from icon sets to accessibility checks.
+
+Because of its versatility and ease of collaboration, Figma is a great choice for designers, developers, and stakeholders working together on wireframing and UI projects.
+
