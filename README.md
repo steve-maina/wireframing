@@ -29,3 +29,11 @@ This defines a clear visual hierarchy and flow, helping users quickly find featu
 - **Functionality:** Outlines key functionalities and interactions.<br>
   <br>**Example:** A wireframe shows interactive elements like a search bar, dropdown filters for products, and clickable product thumbnails that lead to detail pages.
   <br>**Contribution:** Outlining functionality early helps developers and designers understand how users will interact with the site, ensuring features are practical and enhance user engagement.
+
+# Types of Wireframes
+
+- **Low-Fidelity Wireframes:** Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+- **High-Fidelity Wireframes:** More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+# Provide Wireframe
+The provided wireframe is a high-fidelity wireframe
