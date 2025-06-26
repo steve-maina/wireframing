@@ -18,12 +18,14 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
   <br>**Contribution:**
 This defines a clear visual hierarchy and flow, helping users quickly find featured products and navigate categories easily. A well-organized layout reduces cognitive load and enhances user experience.
 
-- **Navigation:** Shows how users will move through the site or application.
+- **Navigation:** Shows how users will move through the site or application.<br>
   <br>**Example:** The wireframe includes a top horizontal menu with categories like “Home,” “Shop,” “About,” and “Contact,” plus a hamburger menu on mobile.
  <br>**Contribution:** Navigation elements guide users through the site efficiently, making it intuitive to find different sections. Good navigation improves usability and keeps users engaged.
-- **Content Placement:** Indicates where text, images, and other content will be positioned.
+
+- **Content Placement:** Indicates where text, images, and other content will be positioned.<br>
   <br>**Example:** The wireframe places a headline and introductory text prominently near the top of the page, with images aligned to the right side and call-to-action buttons below the text.
  <br>**Contribution:** Proper content placement ensures key messages are noticed first, images complement the text without distraction, and CTAs are easy to find and click—driving desired actions.
-- **Functionality:** Outlines key functionalities and interactions.
+
+- **Functionality:** Outlines key functionalities and interactions.<br>
   <br>**Example:** A wireframe shows interactive elements like a search bar, dropdown filters for products, and clickable product thumbnails that lead to detail pages.
   <br>**Contribution:** Outlining functionality early helps developers and designers understand how users will interact with the site, ensuring features are practical and enhance user engagement.
